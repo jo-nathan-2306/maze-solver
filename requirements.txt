@@ -1,0 +1,4 @@
+pygame
+Pillow
+numpy
+scikit-image
