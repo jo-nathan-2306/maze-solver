@@ -11,6 +11,6 @@ An interactive visualizer for the A* pathfinding algorithm built with Pygame.
 - animated shortest path reconstruction on success
 
 ## loading a maze
-Press `I` to open a file dialog and select any maze image (PNG, JPG, BMP, etc.). The image is auto-cropped, converted to grayscale, and thresholded to separate walls from paths. After loading, click to place your start and end points then press `Space` to solve.
+Press `I` to open a file dialog and select any maze image (PNG, JPG, BMP, etc.). The image is auto cropped, converted to grayscale, and thresholded to separate walls from paths. After loading, click to place your start and end points then press `Space` to solve.
 
 For best results use images with clear black walls and white paths.
