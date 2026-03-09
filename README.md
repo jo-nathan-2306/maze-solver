@@ -1,5 +1,6 @@
 # maze solver
 ![](g.gif)
+
 An interactive visualizer for the A* pathfinding algorithm built with Pygame.
 
 ## features
